@@ -1,27 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2023/06/01/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+    <title>ChatGPT镜像分享网站</title>
+    <url>/2023/06/03/ChatGPT%E9%95%9C%E5%83%8F%E5%88%86%E4%BA%AB%E7%BD%91%E7%AB%99/</url>
+    <content><![CDATA[<h1 id="文章介绍"><a href="#文章介绍" class="headerlink" title="文章介绍"></a>文章介绍</h1><p>本篇文章分享了一个ChatGPT的镜像分享网站，给无法流畅使用ChatGPT的同学们一个解决方案。</p>
+<h2 id="网站介绍"><a href="#网站介绍" class="headerlink" title="网站介绍"></a>网站介绍</h2><p>这是一个共享ChatGPT镜像站的网站，目前已有2000+镜像站。</p>
+<p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230603001905132.png" alt="image-20230603001905132"></p>
+<h3 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h3><p>使用方法也很简单，随便点进去一个网站，就可以畅快使用ChatGPT了</p>
+<p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230603002147349.png" alt="image-20230603002147349"></p>
+<p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230603002222074.png" alt="image-20230603002222074"></p>
+<h2 id="网站地址"><a href="#网站地址" class="headerlink" title="网站地址"></a>网站地址</h2><p><a href="https://chat-shared.zhile.io/shared.html">Shared Chat (zhile.io)</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>超级爱睿文</title>
-    <url>/2023/06/01/%E8%B6%85%E7%BA%A7%E7%88%B1%E7%9D%BF%E6%96%87/</url>
-    <content><![CDATA[<p>胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文胡世豪超级爱睿文</p>
-]]></content>
+      <categories>
+        <category>网站分享</category>
+      </categories>
+      <tags>
+        <tag>ChatGPT</tag>
+        <tag>网站分享</tag>
+      </tags>
   </entry>
 </search>
