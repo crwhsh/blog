@@ -1,6 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>拥有自己的ChatGPT网站</title>
+    <url>/2023/04/16/%E6%8B%A5%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84ChatGPT%E7%BD%91%E7%AB%99/</url>
+    <content><![CDATA[<h1 id="项目介绍"><a href="#项目介绍" class="headerlink" title="项目介绍"></a>项目介绍</h1><p>拥有属于自己的ChatGPT网站，国内流畅访问</p>
+<h1 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h1><h2 id="进入github"><a href="#进入github" class="headerlink" title="进入github"></a>进入github</h2><p>首先跟着ChatGPT Next Web项目 一键免费部署你的私人 ChatGPT 网页应用。</p>
+<p>项目地址 <a href="https://github.com/Yidadaa/ChatGPT-Next-Web">https://github.com/Yidadaa/ChatGPT-Next-Web</a></p>
+<p>看一遍官方的搭建步骤</p>
+<h1 id="创建域名"><a href="#创建域名" class="headerlink" title="创建域名"></a>创建域名</h1><p>（我写的教程可能不够详细，可以在网上搜到更详细的教程）</p>
+<p>我是在namesilo创建的域名，花费1.88美元（12.95元）<br>namesilo网站 <a href="https://www.namesilo.com/">https://www.namesilo.com/</a></p>
+<h2 id="Namesilo-简介"><a href="#Namesilo-简介" class="headerlink" title="Namesilo 简介"></a>Namesilo 简介</h2><p>namesilo是 ICANN 认证的域名域名注册商之一，注册和转入都很人性化，安全保护到位而且性价比很高。</p>
+<h2 id="优势"><a href="#优势" class="headerlink" title="优势"></a>优势</h2><p>价格便宜稳定，无套路</p>
+<p>永久免费的隐私保护</p>
+<p>安全性高</p>
+<p>支持支付宝、Paypal、信用卡等多种方式付款。</p>
+<h2 id="注册账号"><a href="#注册账号" class="headerlink" title="注册账号"></a>注册账号</h2><p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230416152005036.png" alt="image-20230416152005036"></p>
+<p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230416152026270.png" alt="image-20230416152026270"></p>
+<p>注册好会进入这个页面，点击home</p>
+<p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230416152115556.png" alt="image-20230416152115556"></p>
+<h2 id="挑选域名"><a href="#挑选域名" class="headerlink" title="挑选域名"></a>挑选域名</h2><p>搜索你想创建的域名</p>
+<p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230416152328602.png" alt="image-20230416152328602"></p>
+<p>选个你能接受的价格，然后add</p>
+<p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230416152403922.png" alt="image-20230416152403922"></p>
+<p>然后点击checkout</p>
+<p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230416152538505.png" alt="image-20230416152538505"></p>
+<p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230416152606065.png" alt="image-20230416152606065"></p>
+<p>选择支付方式，推荐支付宝</p>
+<p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230416152717121.png" alt="image-20230416152717121"></p>
+<p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230416152749843.png" alt="image-20230416152749843"></p>
+<h2 id="填写信息"><a href="#填写信息" class="headerlink" title="填写信息"></a>填写信息</h2><p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230416153217329.png" alt="image-20230416153217329"></p>
+<p>（我当时注册的时候忘记截图了，这张图是在网上找的）</p>
+<p>国家选择中国，然后地址城市省份填拼音，比如郑州填成zhengzhou，我试过填汉字一直错误，然后填拼音就通过了。</p>
+<p>后面回给发邮箱验证，同意一下就行了。</p>
+<h1 id="连接vercel"><a href="#连接vercel" class="headerlink" title="连接vercel"></a>连接vercel</h1><p>创建好域名，登入网站点击My Account</p>
+<p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230416153845895.png" alt="image-20230416153845895"></p>
+<p>然后点击domain manager</p>
+<p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230416153930528.png" alt="image-20230416153930528"></p>
+<p>选择域名然后点击上方的 Change Nameservers</p>
+<p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230416154058006.png" alt="image-20230416154058006"></p>
+<p>进入这个页面</p>
+<p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230416160412971.png" alt="image-20230416160412971"></p>
+<p>回到vercel</p>
+<p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230416155908220.png" alt="image-20230416155908220"></p>
+<p>将自己注册的域名添加上去（我已经添加过了，我也没有新域名，就无法展示下面的操作）</p>
+<p>添加过程可以参考这个教程<a href="https://vercel.com/docs/concepts/projects/domains/add-a-domain#navigate-to-domain-settings">Adding &amp; Configuring a Custom Domain | Vercel Docs</a></p>
+<p>我最后报错这个，A Record 我不清楚为什么没有解决，我选择用Nameservers，最后也解决了问题</p>
+<p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230416160209732.png" alt="image-20230416160209732"></p>
+<p>选择Nameservers 后，vercel会提供他们的网站代理（我不确定是什么名词）</p>
+<p>根据Nameservers 提供的网站，将给的网站添加上去，然后等待一会，网站就连接上了。</p>
+<p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230416160331938.png" alt="image-20230416160331938"></p>
+<p>然后你就可以用你自己的域名，访问你自己的ChatGPT了。</p>
+]]></content>
+      <categories>
+        <category>技术分享</category>
+      </categories>
+      <tags>
+        <tag>ChatGPT</tag>
+        <tag>网站搭建</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>ChatGPT镜像分享网站</title>
     <url>/2023/06/03/ChatGPT%E9%95%9C%E5%83%8F%E5%88%86%E4%BA%AB%E7%BD%91%E7%AB%99/</url>
     <content><![CDATA[<h1 id="文章介绍"><a href="#文章介绍" class="headerlink" title="文章介绍"></a>文章介绍</h1><p>本篇文章分享了一个ChatGPT的镜像分享网站，给无法流畅使用ChatGPT的同学们一个解决方案。</p>
