@@ -32,81 +32,191 @@
       </tags>
   </entry>
   <entry>
-    <title>ChatGPT镜像分享网站</title>
-    <url>/archives/16ff82b9.html</url>
-    <content><![CDATA[<h1 id="文章介绍"><a href="#文章介绍" class="headerlink" title="文章介绍"></a>文章介绍</h1><p>本篇文章分享了一个ChatGPT的镜像分享网站，给无法流畅使用ChatGPT的同学们一个解决方案。</p>
-<h2 id="网站介绍"><a href="#网站介绍" class="headerlink" title="网站介绍"></a>网站介绍</h2><p>这是一个共享ChatGPT镜像站的网站，目前已有2000+镜像站。</p>
-<p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230603001905132.png" alt="image-20230603001905132"></p>
-<h3 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h3><p>使用方法也很简单，随便点进去一个网站，就可以畅快使用ChatGPT了</p>
-<p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230603002147349.png" alt="image-20230603002147349"></p>
-<p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230603002222074.png" alt="image-20230603002222074"></p>
-<h2 id="网站地址"><a href="#网站地址" class="headerlink" title="网站地址"></a>网站地址</h2><p><a href="https://chat-shared.zhile.io/shared.html">Shared Chat (zhile.io)</a></p>
-]]></content>
-      <categories>
-        <category>网站分享</category>
-      </categories>
-      <tags>
-        <tag>ChatGPT</tag>
-        <tag>网站分享</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>拥有自己的ChatGPT网站</title>
-    <url>/archives/88db0291.html</url>
-    <content><![CDATA[<h1 id="项目介绍"><a href="#项目介绍" class="headerlink" title="项目介绍"></a>项目介绍</h1><p>拥有属于自己的ChatGPT网站，国内流畅访问</p>
-<h1 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h1><h2 id="进入github"><a href="#进入github" class="headerlink" title="进入github"></a>进入github</h2><p>首先跟着ChatGPT Next Web项目 一键免费部署你的私人 ChatGPT 网页应用。</p>
-<p>项目地址 <a href="https://github.com/Yidadaa/ChatGPT-Next-Web">https://github.com/Yidadaa/ChatGPT-Next-Web</a></p>
-<p>看一遍官方的搭建步骤</p>
-<h1 id="创建域名"><a href="#创建域名" class="headerlink" title="创建域名"></a>创建域名</h1><p>（我写的教程可能不够详细，可以在网上搜到更详细的教程）</p>
-<p>我是在namesilo创建的域名，花费1.88美元（12.95元）<br>namesilo网站 <a href="https://www.namesilo.com/">https://www.namesilo.com/</a></p>
-<h2 id="Namesilo-简介"><a href="#Namesilo-简介" class="headerlink" title="Namesilo 简介"></a>Namesilo 简介</h2><p>namesilo是 ICANN 认证的域名域名注册商之一，注册和转入都很人性化，安全保护到位而且性价比很高。</p>
-<h2 id="优势"><a href="#优势" class="headerlink" title="优势"></a>优势</h2><p>价格便宜稳定，无套路</p>
-<p>永久免费的隐私保护</p>
-<p>安全性高</p>
-<p>支持支付宝、Paypal、信用卡等多种方式付款。</p>
-<h2 id="注册账号"><a href="#注册账号" class="headerlink" title="注册账号"></a>注册账号</h2><p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230416152005036.png" alt="image-20230416152005036"></p>
-<p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230416152026270.png" alt="image-20230416152026270"></p>
-<p>注册好会进入这个页面，点击home</p>
-<p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230416152115556.png" alt="image-20230416152115556"></p>
-<h2 id="挑选域名"><a href="#挑选域名" class="headerlink" title="挑选域名"></a>挑选域名</h2><p>搜索你想创建的域名</p>
-<p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230416152328602.png" alt="image-20230416152328602"></p>
-<p>选个你能接受的价格，然后add</p>
-<p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230416152403922.png" alt="image-20230416152403922"></p>
-<p>然后点击checkout</p>
-<p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230416152538505.png" alt="image-20230416152538505"></p>
-<p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230416152606065.png" alt="image-20230416152606065"></p>
-<p>选择支付方式，推荐支付宝</p>
-<p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230416152717121.png" alt="image-20230416152717121"></p>
-<p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230416152749843.png" alt="image-20230416152749843"></p>
-<h2 id="填写信息"><a href="#填写信息" class="headerlink" title="填写信息"></a>填写信息</h2><p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230416153217329.png" alt="image-20230416153217329"></p>
-<p>（我当时注册的时候忘记截图了，这张图是在网上找的）</p>
-<p>国家选择中国，然后地址城市省份填拼音，比如郑州填成zhengzhou，我试过填汉字一直错误，然后填拼音就通过了。</p>
-<p>后面回给发邮箱验证，同意一下就行了。</p>
-<h1 id="连接vercel"><a href="#连接vercel" class="headerlink" title="连接vercel"></a>连接vercel</h1><p>创建好域名，登入网站点击My Account</p>
-<p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230416153845895.png" alt="image-20230416153845895"></p>
-<p>然后点击domain manager</p>
-<p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230416153930528.png" alt="image-20230416153930528"></p>
-<p>选择域名然后点击上方的 Change Nameservers</p>
-<p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230416154058006.png" alt="image-20230416154058006"></p>
-<p>进入这个页面</p>
-<p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230416160412971.png" alt="image-20230416160412971"></p>
-<p>回到vercel</p>
-<p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230416155908220.png" alt="image-20230416155908220"></p>
-<p>将自己注册的域名添加上去（我已经添加过了，我也没有新域名，就无法展示下面的操作）</p>
-<p>添加过程可以参考这个教程<a href="https://vercel.com/docs/concepts/projects/domains/add-a-domain#navigate-to-domain-settings">Adding &amp; Configuring a Custom Domain | Vercel Docs</a></p>
-<p>我最后报错这个，A Record 我不清楚为什么没有解决，我选择用Nameservers，最后也解决了问题</p>
-<p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230416160209732.png" alt="image-20230416160209732"></p>
-<p>选择Nameservers 后，vercel会提供他们的网站代理（我不确定是什么名词）</p>
-<p>根据Nameservers 提供的网站，将给的网站添加上去，然后等待一会，网站就连接上了。</p>
-<p><img src="https://raw.githubusercontent.com/crwhsh/img/main/img/image-20230416160331938.png" alt="image-20230416160331938"></p>
-<p>然后你就可以用你自己的域名，访问你自己的ChatGPT了。</p>
+    <title>搭建自己的博客</title>
+    <url>/archives/99c36cb.html</url>
+    <content><![CDATA[<h1 id="搭建自己的博客"><a href="#搭建自己的博客" class="headerlink" title="搭建自己的博客"></a>搭建自己的博客</h1><h2 id="项目介绍"><a href="#项目介绍" class="headerlink" title="项目介绍"></a>项目介绍</h2><p>使用hexo（框架）+butterfly（主题）+vercel（网站托管）搭建你自己的博客</p>
+<h2 id="项目准备"><a href="#项目准备" class="headerlink" title="项目准备"></a>项目准备</h2><h3 id="购买域名"><a href="#购买域名" class="headerlink" title="购买域名"></a>购买域名</h3><p>如果有自己的域名可以忽略这一步</p>
+<p>购买域名的方法可以参考</p>
+<p><a href="https://www.onehu.top/archives/fc393a6d.html">如何购买域名 | one hu的博客</a></p>
+<p>也可以在网上搜索购买域名的方法。</p>
+<h3 id="环境搭建"><a href="#环境搭建" class="headerlink" title="环境搭建"></a>环境搭建</h3><h4 id="git"><a href="#git" class="headerlink" title="git"></a>git</h4><p>版本控制工具</p>
+<h4 id="Node"><a href="#Node" class="headerlink" title="Node"></a>Node</h4><p>JaveScript 运行环境</p>
+<h4 id="npm-cnpm-yarn"><a href="#npm-cnpm-yarn" class="headerlink" title="npm cnpm yarn"></a>npm cnpm yarn</h4><p>包管理工具</p>
+<h2 id="项目开始"><a href="#项目开始" class="headerlink" title="项目开始"></a>项目开始</h2><p>我搭建博客的过程中主要参考B站UP主卷二兔的教程</p>
+<p>教程链接</p>
+<p><a href="https://www.bilibili.com/video/BV1aV411p7Bc/?spm_id_from=333.788&vd_source=38b08662f4784c5a2c4492b4f2276a5b">使用Hexo搭建个人博客手摸手教学(1)|前言_哔哩哔哩_bilibili</a></p>
+<p>他的教程十分详细，推荐去看一下。我的教程相对来说是一个最基础的入门，更详细的还是推荐看卷二兔的教程，和Butterful的官方文档</p>
+<p>卷二兔的教程是将网站部署到GitHub上，我做出的改变是部署到了vercel上面</p>
+<p>Butterful的官方地址</p>
+<p><a href="https://butterfly.js.org/">Butterfly - A Simple and Card UI Design theme for Hexo</a></p>
+<h3 id="Hexo安装"><a href="#Hexo安装" class="headerlink" title="Hexo安装"></a>Hexo安装</h3><p>在终端中输入</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo -g</span><br></pre></td></tr></table></figure>
+
+<p>-g是在全局安装</p>
+<p>接着输入</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo version</span><br></pre></td></tr></table></figure>
+
+<p>来判断是否安装成功</p>
+<p>如果出现这个页面，说明安装成功</p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603155145671.png" alt="image-20230603155145671"></p>
+<p>新建一个文件夹比如 我的博客 然后在这个文件夹里面再新建一个文件夹比如 myblog（不要担心出错，出错了大不了把文件夹删除，重新来一遍就好了）</p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603160520301.png" alt="image-20230603160520301"></p>
+<p>然后在空白处右键，选择在终端中打开</p>
+<p>输入</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo init myblog</span><br></pre></td></tr></table></figure>
+
+<p>这样就安装好了</p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603161004728.png" alt="image-20230603161004728"></p>
+<p>进入myblog文件夹下</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">cd myblog</span><br></pre></td></tr></table></figure>
+
+<p>安装依赖</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install</span><br></pre></td></tr></table></figure>
+
+<p>这样依赖就安装好了</p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603161146823.png" alt="image-20230603161146823"></p>
+<p>输入</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo server</span><br></pre></td></tr></table></figure>
+
+<p>会给你一个本地连接<a href="http://localhost:4000/">http://localhost:4000/</a></p>
+<p>打开</p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603161405570.png" alt="image-20230603161405570"></p>
+<p>这样页面就是最基础的页面了。</p>
+<h3 id="发布博客到GitHub"><a href="#发布博客到GitHub" class="headerlink" title="发布博客到GitHub"></a>发布博客到GitHub</h3><p>进入GitHub<a href="https://github.com/%EF%BC%8C%E5%A6%82%E6%9E%9C%E6%B2%A1%E6%9C%89%E8%B4%A6%E6%88%B7%E5%85%88%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E8%B4%A6%E6%88%B7">https://github.com/，如果没有账户先创建一个账户</a></p>
+<h4 id="新建一个仓库"><a href="#新建一个仓库" class="headerlink" title="新建一个仓库"></a>新建一个仓库</h4><p>点击头像然后点击 Your repositiones</p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603162524571.png" alt="image-20230603162524571"></p>
+<p>然后点击New</p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603162633797.png" alt="image-20230603162633797"></p>
+<p>为你的仓库起一个名字 比如 myblog ，选择 Public 点击Create repository</p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603162737664.png"></p>
+<p>这样你的仓库就建好了</p>
+<h4 id="配置git信息"><a href="#配置git信息" class="headerlink" title="配置git信息"></a>配置git信息</h4><p>打开终端输入</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git config --global user.name &quot;你的GitHub用户名，比如我的是crwhsh&quot;</span><br><span class="line">git config --global user.email &quot;你的GitHub注册的邮箱&quot;</span><br></pre></td></tr></table></figure>
+
+<p>通过编译器打开myblog文件夹</p>
+<p>找到_config.yml 文件</p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603163525276.png" alt="image-20230603163525276"></p>
+<p>翻到最下面有一个deploy配置信息</p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603163716831.png" alt="image-20230603163716831"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">deploy:</span><br><span class="line">  type: &#x27;git&#x27;</span><br><span class="line">  repo: &#x27;你的GitHub地址&#x27;</span><br><span class="line">  branch: &#x27;main&#x27;</span><br></pre></td></tr></table></figure>
+
+<p>将deply修改成这个样子，注意repo是你自己的GitHub地址，从刚刚创建的仓库复制一下，粘贴到repo里面</p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603164015964.png" alt="image-20230603164015964"></p>
+<p>保存配置信息。</p>
+<p>在终端中打开myblog文件夹</p>
+<p>输入</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure>
+
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603164432685.png" alt="image-20230603164432685"></p>
+<p>这样就安装成功了</p>
+<h4 id="上传GitHub仓库"><a href="#上传GitHub仓库" class="headerlink" title="上传GitHub仓库"></a>上传GitHub仓库</h4><p>清理缓存命令</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo clean</span><br></pre></td></tr></table></figure>
+
+<p>生成文件命令</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo g</span><br></pre></td></tr></table></figure>
+
+<p>上传GitHub命令</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo d</span><br></pre></td></tr></table></figure>
+
+<p>本地预览命令</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo s</span><br></pre></td></tr></table></figure>
+
+<p>一般上传GitHub要清理一下缓存，生成一下文件，然后再上传。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603164830151.png" alt="image-20230603164830151"></p>
+<p>这样就上传成功了</p>
+<p>查看我们的GitHub，此时文件以及上传上去了</p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603164914175.png" alt="image-20230603164914175"></p>
+<h3 id="将博客托管到vercel"><a href="#将博客托管到vercel" class="headerlink" title="将博客托管到vercel"></a>将博客托管到vercel</h3><p>打开vercel官网<a href="https://vercel.com/">https://vercel.com/</a></p>
+<p>使用GitHub登入</p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603165227245.png" alt="image-20230603165227245"></p>
+<p>添加一个新的Project</p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603165328450.png" alt="image-20230603165328450"></p>
+<p>这里可以看到我们刚才的仓库myblog，点击import导入</p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603165400012.png" alt="image-20230603165400012"></p>
+<p>点击Deploy</p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603165455609.png" alt="image-20230603165455609"></p>
+<p>创建完成后添加绑定的域名</p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603165539531.png" alt="image-20230603165539531"></p>
+<p>输入你创建的域名，添加(注意要加上www.否则可能无法正常访问)</p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603170034156.png" alt="image-20230603170034156"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603165648635.png" alt="image-20230603165648635"></p>
+<p>此时会报错无效配置，我们选择有前缀www.这个域名，点击or Nameservers 然后点击Enable Vercel DNS</p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603170200639.png" alt="image-20230603170200639"></p>
+<p>此时vercel会给出他们的Name server</p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603170329682.png" alt="image-20230603170329682"></p>
+<p>此时打开<a href="https://www.namesilo.com/">https://www.namesilo.com/</a></p>
+<p>点击 My Account</p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603170508946.png" alt="image-20230603170508946"></p>
+<p>点击Mange</p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603170541662.png" alt="image-20230603170541662"></p>
+<p>选择你的域名点击Change Nameservers</p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603170618637.png" alt="image-20230603170618637"></p>
+<p>将原本的删除，修改成vercel提供的Nameserver</p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603170727598.png" alt="image-20230603170727598"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603170839243.png" alt="image-20230603170839243"></p>
+<p>然后点击提交，等待一段时间，在vercel里面点击刷新</p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603170943421.png" alt="image-20230603170943421"></p>
+<p>等待一段时间大概10分钟</p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603171556644.png" alt="image-20230603171556644"></p>
+<p>你会发现全都变蓝了，说明配置成功了，这时候我们试着访问一下我们的域名</p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603171752409.png" alt="image-20230603171752409"></p>
+<p>正常访问成功！以后可以通过域名来访问我们的博客了！</p>
+<p>以后我们只需在本地修改好文件，然后上传到GitHub，vercel就会自动更新你的更改，十分方面。</p>
+<h3 id="博客美化"><a href="#博客美化" class="headerlink" title="博客美化"></a>博客美化</h3><p>对博客美化就是对配置文件的改改改，要注意缩进</p>
+<p>比如我更改一些</p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603172639536.png" alt="image-20230603172639536"></p>
+<p>再使用命令运行，打开网站</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo s</span><br></pre></td></tr></table></figure>
+
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603172754410.png" alt="image-20230603172754410"></p>
+<p>一些东西就改变了</p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603172821042.png" alt="image-20230603172821042"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603172837530.png" alt="image-20230603172837530"></p>
+<h4 id="需要更改的一些配置"><a href="#需要更改的一些配置" class="headerlink" title="需要更改的一些配置"></a>需要更改的一些配置</h4><p>需要将这个url改成自己的域名网站</p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603173148606.png" alt="image-20230603173148606"></p>
+<h4 id="一些指令"><a href="#一些指令" class="headerlink" title="一些指令"></a>一些指令</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo n &quot;文章名字&quot;</span><br></pre></td></tr></table></figure>
+
+<p>可以快速创建一个文章</p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603173531563.png" alt="image-20230603173531563"></p>
+<h4 id="Butterfly主题安装"><a href="#Butterfly主题安装" class="headerlink" title="Butterfly主题安装"></a>Butterfly主题安装</h4><p>Butterfly官网文档教程<a href="https://butterfly.js.org/posts/21cfbf15/">Butterfly 安裝文檔(一) 快速開始 | Butterfly</a></p>
+<p>首先再myblog目录下安装（我这里使用的是nmp安装）</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo-theme-butterfly</span><br></pre></td></tr></table></figure>
+
+<p>这样就安装好了</p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603174031665.png" alt="image-20230603174031665"></p>
+<p>在_config.yml文件中ctrl+f搜索theme（修改配置经常需要搜索，请熟练使用ctrl+f），修改成butterfly</p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603175259475.png" alt="image-20230603175259475"></p>
+<p>安装插件</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo-renderer-pug hexo-renderer-stylus --save</span><br></pre></td></tr></table></figure>
+
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603174410261.png" alt="image-20230603174410261"></p>
+<p>修改配置文件后记得ctrl+s进行保存</p>
+<p>此时我们运行一下看看效果</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo clean  #清理一下缓存</span><br><span class="line">hexo g      #重新生成一下</span><br><span class="line">hexo s      #运行本地服务器</span><br></pre></td></tr></table></figure>
+
+<p>现在我们的博客成了这个样子</p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603175506372.png" alt="image-20230603175506372"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603175522404.png" alt="image-20230603175522404"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603175533375.png" alt="image-20230603175533375"></p>
+<p>此时我们可以运行</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo d</span><br></pre></td></tr></table></figure>
+
+<p>将本地修改的推送到GitHub上，然后vercel自动托管</p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603175829579.png" alt="image-20230603175829579"></p>
+<p>此时我们打开我们的域名</p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603175944801.png" alt="image-20230603175944801"></p>
+<p>此时访问我们的域名也可以看到变化了。</p>
+<h2 id="结束语"><a href="#结束语" class="headerlink" title="结束语"></a>结束语</h2><p>这篇文章给想要搭建个博客的同学引个头，如果想让自己的博客功能更加完善和美观，希望你去看Butterfly的官方文档，如果你看完了我的文章，你可以从这里开始看<a href="https://butterfly.js.org/posts/dc584b87/">Butterfly 安裝文檔(二) 主題頁面 | Butterfly</a></p>
+<p>或者跟着卷二兔的这个视频开始看<a href="https://www.bilibili.com/video/BV1Fb4y1r7ja/?spm_id_from=333.788&vd_source=38b08662f4784c5a2c4492b4f2276a5b">使用Hexo搭建个人博客手摸手教学(8)|butterfly主题页面配置_哔哩哔哩_bilibili</a></p>
+<p>看完卷二兔的三个主题配置视频，你应该就会美化自己的博客了</p>
+<p><img src="https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230603180525820.png" alt="image-20230603180525820"></p>
 ]]></content>
       <categories>
         <category>技术分享</category>
       </categories>
       <tags>
-        <tag>ChatGPT</tag>
-        <tag>网站搭建</tag>
+        <tag>搭建网站</tag>
+        <tag>博客</tag>
       </tags>
   </entry>
 </search>
