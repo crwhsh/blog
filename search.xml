@@ -47,7 +47,7 @@
 <p><a href="https://www.bilibili.com/video/BV1aV411p7Bc/?spm_id_from=333.788&vd_source=38b08662f4784c5a2c4492b4f2276a5b">使用Hexo搭建个人博客手摸手教学(1)|前言_哔哩哔哩_bilibili</a></p>
 <p>他的教程十分详细，推荐去看一下。我的教程相对来说是一个最基础的入门，更详细的还是推荐看卷二兔的教程，和Butterful的官方文档</p>
 <p>卷二兔的教程是将网站部署到GitHub上，我做出的改变是部署到了vercel上面</p>
-<p>Butterful的官方地址</p>
+<p>Butterfly的官方地址</p>
 <p><a href="https://butterfly.js.org/">Butterfly - A Simple and Card UI Design theme for Hexo</a></p>
 <h3 id="Hexo安装"><a href="#Hexo安装" class="headerlink" title="Hexo安装"></a>Hexo安装</h3><p>在终端中输入</p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo -g</span><br></pre></td></tr></table></figure>
